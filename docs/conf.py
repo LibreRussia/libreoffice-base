@@ -203,7 +203,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'LibreOffice.tex', u'Краткое руководство по интерфейсу работы с базами данных LibreOffice Base',
-   u'2015, Роман Кузнецов, Дмитрий Мажарцев', 'manual'),
+   u'Роман Кузнецов, Дмитрий Мажарцев', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
